@@ -1,0 +1,9 @@
+{
+  "name": "sample-jslib-for-tsd",
+  "version": "1.0.0",
+  "description": "Generate npm package javascript lib for typescript definition support",  
+  "main": "./libs/MyLib.js",  
+  "types": "./libs/MyLib.d.ts",  
+  "author": "MinChanSike",
+  "license": "ISC"
+}
