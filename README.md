@@ -1,4 +1,4 @@
-#Build npm package javascript library for typescript support
+# Build npm package javascript library for typescript support
 
 _Usage sample_
 > npm install sample-jslib-for-tsd
